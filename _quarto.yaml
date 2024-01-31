@@ -25,7 +25,7 @@ format:
     
     # Table of contents
     toc: true
-    toc-title: "Contents"
+    toc-title: "Contents YAML VERSION"
     toc-location: left
 
 editor: visual
